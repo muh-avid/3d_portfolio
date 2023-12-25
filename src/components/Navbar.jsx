@@ -21,9 +21,23 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
+          <p className="text-white text-[18px] dont-bold cursor-pointer">Avid <span className="sm:block hidden">| javaScript mastery</span></p>
         </Link>
+        <ul className="list-none hidden sm:flex flex-row gap-10">
+          {navLinks.map((Link) => (
+            <li
+              key={Link.id}
+              className={`${
+                active === Link.title
+                  ? "text-white"
+                  : "text-secondary"
+              }`}
+            >
+              <a href={`#${Link.id}`}>{Link.title}</a>
+            </li>
+          ))}
+        </ul>
       </div>
     </nav>
   )
