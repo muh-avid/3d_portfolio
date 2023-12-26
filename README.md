@@ -1,8 +1,14 @@
-# React + Vite
+# Avid | 3DPortfolio
 
 ## Hey Coders!🌐✨ I'm Avid and I'm diving into making a 3D portfolio with ThreeJS. Got any cool tips for me? 
 
 💻🚀 lanjut https://youtu.be/0fYi8SGA20k?t=2041 | pause ke3
+
+### masalah yang terjadi selama mengerjakan project
+- tanggal 26 - dec - 2023 : wifi bermasalah sehingga tidak dapat mengerjakan secara online
+
+
+#### 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
