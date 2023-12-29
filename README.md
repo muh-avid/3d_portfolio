@@ -2,10 +2,12 @@
 
 ## Hey Coders!🌐✨ I'm Avid and I'm diving into making a 3D portfolio with ThreeJS. Got any cool tips for me? 
 
-💻🚀 lanjut https://youtu.be/0fYi8SGA20k?t=2323 | pause ke4_i
+💻🚀 lanjut https://youtu.be/0fYi8SGA20k?t=2323 | pause ke4_i stuck :)
 
 ### masalah yang terjadi selama mengerjakan project
 - tanggal 26 - dec - 2023 : wifi bermasalah sehingga tidak dapat mengerjakan secara online
+- tanggal 29 - dec - 23   : perlu diulang di bagian layout mungkin saja ada yang ketinggalan 
+https://youtu.be/0fYi8SGA20k?t=1077
 
 
 #### 
