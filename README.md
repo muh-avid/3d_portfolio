@@ -9,6 +9,7 @@
 - tanggal 29 - dec - 23   : perlu diulang di bagian layout mungkin saja ada yang ketinggalan 
 https://youtu.be/0fYi8SGA20k?t=1077
 - tanggal 30 - dec - 23   : belum ada progress karna ada acara hari ini :)
+- tanggal 31 - dec - 23   : belum ada progress dikarenakan siap" | packing untuk berangkat ke banjarmasin
 
 
 #### 
