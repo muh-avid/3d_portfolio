@@ -10,6 +10,7 @@
 https://youtu.be/0fYi8SGA20k?t=1077
 - tanggal 30 - dec - 23   : belum ada progress karna ada acara hari ini :)
 - tanggal 31 - dec - 23   : belum ada progress dikarenakan siap" | packing untuk berangkat ke banjarmasin
+- tanggal 1 dan 2 baru tiba di banjar masin dan mnegerjakan invoice sehingga belum smepat melanjutkan
 
 
 #### 
