@@ -5,13 +5,7 @@
 💻🚀 lanjut https://youtu.be/0fYi8SGA20k?t=2323 | pause ke4_i stuck :)
 
 ### masalah yang terjadi selama mengerjakan project
-- tanggal 26 - dec - 2023 : wifi bermasalah sehingga tidak dapat mengerjakan secara online
-- tanggal 29 - dec - 23   : perlu diulang di bagian layout mungkin saja ada yang ketinggalan 
-https://youtu.be/0fYi8SGA20k?t=1077
-- tanggal 30 - dec - 23   : belum ada progress karna ada acara hari ini :)
-- tanggal 31 - dec - 23   : belum ada progress dikarenakan siap" | packing untuk berangkat ke banjarmasin
-- tanggal 1 dan 2 baru tiba di banjar masin dan mnegerjakan invoice sehingga belum smepat melanjutkan
-
+- 26 - dec - 2023 | 06 - januari - 2024 : belum bisa solved bagian toggle dropdown https://youtu.be/0fYi8SGA20k?t=2328 ini bagian  toggle yang belum bisa dipecahkan
 
 #### 
 
