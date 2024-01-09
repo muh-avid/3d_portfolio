@@ -2,7 +2,7 @@
 
 ## Hey Coders!🌐✨ I'm Avid and I'm diving into making a 3D portfolio with ThreeJS. Got any cool tips for me? 
 
-💻 lanjut https://youtu.be/0fYi8SGA20k?t=2747 | pitStop 5 🚀 
+💻 lanjut https://youtu.be/0fYi8SGA20k?t=3348 | pitStop 6 🚀 
 
 ### masalah yang terjadi selama mengerjakan project
 ✔ * 26 - dec - 2023 | 06 - januari - 2024 : belum bisa solved bagian toggle dropdown https://youtu.be/0fYi8SGA20k?t=2328 ini bagian  toggle yang belum bisa dipecahkan 
