@@ -21,7 +21,7 @@ const Computers = () => {
       />
       <primitive
         object={computer.scene}
-        scale={0.75}
+        scale={0.65}
         position={[0, -3.44, -1.5]}
         rotation={[-0.01, -0.2, -0.1]}
       />
@@ -30,6 +30,24 @@ const Computers = () => {
 }
 
 const ComputersCanvas = () => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('max-width: 500');
+
+    setIsMobile(mediaQuery.matches);
+
+    const handleMediaQueryChange = (event) => {
+      setIsMobile(event.matches);
+    }
+
+    mediaQuery.addEventListener('change', handleMediaQueryChange);
+
+    return () => {
+      mediaQuery.addEventListener('change', handleMediaQueryChange);
+    }
+  }, [])
+
   return (
     <Canvas
       frameloop="demand"
