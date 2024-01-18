@@ -10,7 +10,7 @@
 
 #### note
 
--**coba dilanjutkan besok yaaah harus semangat https://youtu.be/0fYi8SGA20k?t=3582 bagian ini -**
+-**terjadi error pada file About.jsx di line 2 [import Tilt from 'react-tilt'] :) mungkin saatnya menyimpan ini dan melanjutkan project lain atau fokus belajar dulu -**coba dilanjutkan besok yaaah harus semangat https://youtu.be/0fYi8SGA20k?t=3582 bagian ini -\*\*
 
 ####
 
